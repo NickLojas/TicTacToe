@@ -9,7 +9,7 @@ This is a front end web app project made using ReactJS which allows users to pla
 - Maintains a history list of moves allowing user to restart the game from a certain move made previously that game
 - Recognizes and displays corresponding message for win/tie/loss upon game end
 - Displays winning line, and winning user upon game end
-- 
+
 
 ## What I learned
 - JSX 
