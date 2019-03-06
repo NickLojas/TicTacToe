@@ -13,7 +13,7 @@ This is a front end web app project made using ReactJS which allows users to pla
 
 ## What I learned
 - JSX 
-- Using components to create front end
+- Using ReactJS components to create front end
 - Component Props and component state
 - Class based components for components that use state and functional components for ones that don't
 - Arrow functions and function binding (this)
