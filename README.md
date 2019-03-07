@@ -1,6 +1,16 @@
 # TicTacToe
 This is a front end web app project made using ReactJS which allows users to play TicTacToe with some extra features. This was made while learning ReactJS from the ReactJS official site.
 
+## Usage
+1. First clone the repo,
+2. then in a terminal in the repository directory run 
+```
+$ npm install
+
+// When finished installing run
+$ npm run start
+```
+
 ## Skills used
 - Javascript ES6
 - React JS
